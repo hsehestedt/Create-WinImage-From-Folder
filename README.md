@@ -1,7 +1,7 @@
 # Create-WinImage-From-Folder
 Create a bootable Windows image from Windows files in a folder
 
-Current Version: 1.09  
+Current Version: 1.01  
 Release Date: Sep 9, 2021  
 
 This batch file takes the contents of Windows boot media that has been expanded to a folder on a HDD, SSD, or removable media, and creates a new bootable ISO image from these files. This can be helpful if you are making changes to any of the Windows files and then want to recreate an image from the modified files.
